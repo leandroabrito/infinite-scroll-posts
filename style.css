@@ -32,7 +32,7 @@ h1 {
   padding: 12px;
 }
 
-.post-container .post {
+.posts-container .post {
   position: relative;
   background-color: #4992d3;
   box-shadow: 0 2px 4px rgba(0,0,0,0.3);
